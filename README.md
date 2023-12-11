@@ -1,0 +1,1 @@
+This API application enables you to retrieve the current weather conditions for any location worldwide. Simply enter the city's name, and you'll receive comprehensive daily weather information, including temperature, sunlight duration, and precipitation details.
